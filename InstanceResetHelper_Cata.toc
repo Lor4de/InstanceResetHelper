@@ -1,0 +1,11 @@
+## Interface: 40401
+## Notes: Announce in party or raid when you reset an instance
+## Title: InstanceResetHelper
+## Author: Lorade
+## Version: 1.5
+
+Include.xml
+
+Init.lua
+Lib.lua
+Main.lua
