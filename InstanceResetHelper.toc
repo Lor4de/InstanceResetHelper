@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110107
 ## Notes: Announce in party or raid when you reset an instance
 ## Title: InstanceResetHelper
 ## Author: Lorade
-## Version: 1.5
+## Version: 1.6
 
 Include.xml
 
